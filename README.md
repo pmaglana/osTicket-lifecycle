@@ -48,8 +48,8 @@ A ticket was created by a User(Karen) stating that their entire mobile/banking s
 
 <h3>Ticket Lifecycle stage 2: User Permissions and Observing/Triaging/Escalating tickets</h3>
 
-- To view the created ticket as an Agent, login to the  portal  http://localhost/osTicket/scp/login.php as Agent John.
-- As you can see, John cannot edit or make any altercation to the ticket. This is because from the previous Lab we Created John as a Read-Only User.
+To view the created ticket as an Agent, login to the  portal  http://localhost/osTicket/scp/login.php as Agent John.
+As you can see, John cannot edit or make any altercation to the ticket. This is because from the previous Lab we Created John as a Read-Only User.
 
    <img src="images/mock4.png">
    <img src="images/mock5.png">
@@ -83,7 +83,31 @@ A ticket was created by a User(Karen) stating that their entire mobile/banking s
    <img src="images/mock12.png">
    <img src="images/mock13.png">
 
-   *This error pops-up since we have escalated the ticket to a Department the John is no a port of. Logout and log back in as a System Administrator (Jane)*</br>
+   *This error pops-up since we have escalated the ticket to a Department the John is not a port of. Logout and log back in as a System Administrator (Jane)*</br>
    <img src="images/mock14.png">
+
+   <h3>Ticket Lifecycle stage 3: Closing a ticket</h3>
+   
+  In this scenario, the ticket was escalated to the System Administrator(Jane), then she provides solution/reason to the ticket and closed it afterwards. Follow the steps below on how to close a ticket.
+   
+   - Login as the System Administrator, then notate the ticket stating the reason why the online banking system went down.
+
+     <img src="images/mock15.png">
+     <img src="images/mock16.png">
+
+     *At this point  the server has been restarted providing solution for the ticket.*
+   - After solving the issue, notate the account again and close the ticket by changing the Status to Closed.
+
+     <img src="images/mock17.png">
+     <img src="images/mock18.png">
+     <img src="images/mock19.png">
+
+<h2>Finishing Up</h2>
+
+<h3>Congratulations for completing the osTicket Ticket Lifecycle / System Simulation.</h3>
+
+
+<sub>*Having issues and trouble with this Lab Project? Please reach out to paulo@maglana.com*</sub>
+
              
               
