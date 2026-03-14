@@ -40,9 +40,10 @@ A ticket was created by a User(Karen) stating that their entire mobile/banking s
 
    <img src="images/mock1.png"  >
 
-- Ticket successfully created.
+- Ticket successfully created. Observe that a new ticket is showing under Agent/Admin Panel > Tickets.
 
    <img src="images/mock2.png"  >
+   <img src="images/mock3.png"  >   
 
 
 <h3>Ticket Lifecycle stage 2: Observing/Triaging/Escalating tickets.</h3>
