@@ -1,5 +1,6 @@
 <p align="center">
-<img width="2551" height="416" alt="ostcktbanner" src="https://github.com/user-attachments/assets/e48193df-ab3c-4d1a-9165-5941f96a22b6" />
+<img width="2566" height="416" alt="ostcktbanner" src="https://github.com/user-attachments/assets/02880e4e-b759-4444-a41a-182607635450" />
+
 </p>
 
 <h1>osTicket Lifecycle / System Simulation </h1>
