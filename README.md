@@ -108,7 +108,7 @@ As you can see, John cannot edit or make any altercation to the ticket. This is 
 <h3>Congratulations for completing the osTicket Ticket Lifecycle / System Simulation.</h3>
 
 
-<sub>*Having issues and trouble with this Lab Project? Please reach out to paulo@maglana.com*</sub>
+<sub>*Having issues and trouble with this Lab Project? Please reach out to easy.patch3668@fastmail.com*</sub>
 
              
               
